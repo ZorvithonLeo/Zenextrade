@@ -1,9 +1,5 @@
 ![a-dark-background-a-trading-chart-blackhat-vibe-an (1)](https://github.com/user-attachments/assets/6e277707-91f9-4afa-9ec2-0219da5ed4d9)
 
-Here’s the detailed breakdown of the ultra-advanced mega trading system features in the form of a **readme** file with added emojis for a bit of flair:
-
----
-
 # 🚀 **Zenextrade** 🚀
 
 ### **Features Added:**
